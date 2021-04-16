@@ -18,11 +18,11 @@
 
   <div class="nav-scroller py-1 mb-2">
     <nav class="nav d-flex justify-content-between">
-      <a class="p-2 link-secondary" href="index.php"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Accueil</font></font></a>
-      <a class="p-2 link-secondary" href="modelisation.php"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Modélisation</font></font></a>
-      <a class="p-2 link-secondary" href="code.php"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Programmation</font></font></a>
-      <a class="p-2 link-secondary" href="cablage.php"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Câblage</font></font></a>
-      <a class="p-2 link-secondary" href="apropos.php"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">A propos</font></font></a>
+      <a class="p-2 link-secondary" href="index.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Accueil</font></font></a>
+      <a class="p-2 link-secondary" href="modelisation.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Modélisation</font></font></a>
+      <a class="p-2 link-secondary" href="code.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Programmation</font></font></a>
+      <a class="p-2 link-secondary" href="cablage.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Câblage</font></font></a>
+      <a class="p-2 link-secondary" href="apropos.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">A propos</font></font></a>
 
     </nav>
   </div>
