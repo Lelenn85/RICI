@@ -9,7 +9,7 @@
     </head>
   <body>
     
-
+<?php include("menu.php");?>
 
 <main class="container">
   <div class="p-4 p-md-5 mb-4 text-white rounded bg-dark">
