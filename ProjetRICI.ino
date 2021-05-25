@@ -148,7 +148,8 @@ void moteur(){ // En fonction de l'état choisit préceddemment, on attribue une
 }
 //------------------------------------------------------------------------------------------------------------
 void loop() { // Execute les sous programmes si vous voulez executer plusieurs taches simultanément.
- son();
-
+son();
+etat();
+moteur();
  
 }
