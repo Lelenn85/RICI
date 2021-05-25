@@ -148,7 +148,5 @@ void moteur(){ // En fonction de l'état choisit préceddemment, on attribue une
 }
 //------------------------------------------------------------------------------------------------------------
 void loop() { 
-son();
-etat();
 moteur();
 }
